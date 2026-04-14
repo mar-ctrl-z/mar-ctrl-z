@@ -54,10 +54,6 @@ do campo à sala de aula, do modelo ao sistema em produção.
 
 ### GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=6EE7B7&text_color=c9d1d9"/>
-</div>
 
 ---
 
