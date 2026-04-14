@@ -50,18 +50,4 @@ do campo à sala de aula, do modelo ao sistema em produção.
 
 </div>
 
----
-
-### GitHub
-
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=6EE7B7)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=6EE7B7)](mailto:SEU_EMAIL)
-
-<sub>Quando não estou pesquisando ou desenvolvendo, provavelmente estou otimizando o layout da minha fazenda no Stardew Valley. 🌾</sub>
-
-</div>
+...
