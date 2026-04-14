@@ -28,18 +28,6 @@ do campo à sala de aula, do modelo ao sistema em produção.
 - **UX Research** — Validação de sistemas com métricas de usabilidade (SUS, UES), do mapa de empatia ao produto
 - **Disseminação de Tecnologia** — Projetos de Impressão 3D e Empreendedorismo para estudantes da rede pública
 
----
-
-### Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| 🐑 **Gestão Rural de Precisão** | Rastreamento de ruminantes com heurísticas de MOT e YOLOv8 |
-| ✅ **Lembre-me** | App de gestão de tarefas centrado em microvitórias e validação emocional do usuário |
-| ⚖️ **Educação em LGPD** | Plataforma interativa de ensino da Lei Geral de Proteção de Dados |
-
----
-
 ### Stack
 
 <div align="center">
