@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=558e34&height=200&section=header&text=🌾%20Bem-vindo%20ao%20Meu%20Perfil%20%F0%9F%8C%BE&fontSize=40&fontColor=ffffff&animation=fadeIn&reversal=false" alt="Header Stardew"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=40&duration=2000&pause=1000&color=E1FF63&background=044D0D00&center=true&vCenter=true&width=435&lines=Marina+Conrado" alt="Typing SVG" /></a>
+
 <br/>
 
 <!-- Avatar com estilo Stardew Valley -->
@@ -22,17 +24,6 @@
 
 <br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=558e34&center=true&vCenter=true&width=700&lines=Sistemas+de+Informação+|+UFPI;Visão+Computacional+|+YOLOv8;DevOps+|+UX+Research;Cloud+Computing+|+IA;Do+Piauí+🌾+para+a+nuvem+☁️" alt="Typing SVG"/>
-
-<br/>
-
-<!-- Bio -->
-<p align="center">
-  <i>💚 "Plantando algoritmos, colhendo soluções doces para o semiárido" 🍉🤖</i><br/>
-  <i>✨ Transformando dados em ouro, um projeto por vez</i>
-</p>
-
 <p align="center">
   📍 <b>Picos, Piauí</b> | 🌾 <b>Visão Computacional</b> | 🚀 <b>Cloud & DevOps</b>
 </p>
@@ -51,10 +42,6 @@
   &nbsp;
   <a href="http://lattes.cnpq.br/5225020120155051" target="_blank">
     <img src="https://img.shields.io/badge/Lattes-white?style=for-the-badge&logo=academia&logoColor=black" alt="Lattes"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mar-ctrl-z" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
