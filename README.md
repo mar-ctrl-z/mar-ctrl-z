@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=558e34&height=200&section=header&text=🌾%20Bem-vindo%20à%20Fazenda%20%F0%9F%8C%BE&fontSize=40&fontColor=ffffff&animation=fadeIn&reversal=false" alt="Header Stardew"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=558e34&height=200&section=header&text=🌾%20Bem-vindo%20ao%20Meu%20Perfil%20%F0%9F%8C%BE&fontSize=40&fontColor=ffffff&animation=fadeIn&reversal=false" alt="Header Stardew"/>
 
 <br/>
 
