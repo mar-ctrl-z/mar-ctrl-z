@@ -77,6 +77,5 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Heart.svg" width="16"/> 
-  <i>Progresso salvo com sucesso! Hora de descansar.</i>
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Heart.svg" width="16"/>
 </div>
