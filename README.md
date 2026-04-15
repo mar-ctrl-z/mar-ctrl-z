@@ -119,19 +119,6 @@ Se você está procurando por alguém que una **criatividade**, **precisão téc
 🔹 Escrita Científica
 🔹 Pesquisa e Publicações
 ```
-
----
-
-## 📊 Estatísticas da Fazenda (GitHub Stats)
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mar-ctrl-z&show_icons=true&theme=merko&hide_border=true&bg_color=ffffff&title_color=558e34&icon_color=558e34" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-ctrl-z&layout=compact&theme=merko&hide_border=true&bg_color=ffffff&title_color=558e34" alt="Top Languages"/>
-
-</div>
-
 <br/>
 
 ### 🏆 Contribuições por Colheita
