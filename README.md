@@ -40,21 +40,8 @@
 
 ### 📊 Estatísticas (Progresso da Colheita)
 
-<div align="center">
-  <img src="stardew_me.jpg" width="400" alt="Meu Avatar Stardew Valley">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1000&color=98EE99&center=true&vCenter=true&width=600&lines=Sistemas+de+Informa%C3%A7%C3%A3o+|+UFPI;Vis%C3%A3o+Computacional+|+YOLOv8;Do+Piau%C3%AD+para+a+nuvem!+%F0%9F%8C%BE%E2%9C%A8" alt="Typing SVG" />
-</div>
+<img src="https://github.com/mar-ctrl-z/mar-ctrl-z/blob/main/chibi.jpeg?raw=true" width="160"
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="stardew_me.jpg" width="250" alt="Avatar">
-    </td>
-    <td>
-      <h1>Olá, eu sou [Seu Nome]! 👋</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=98EE99&width=400&lines=Sistemas+de+Informa%C3%A7%C3%A3o+|+UFPI;Vis%C3%A3o+Computacional+|+YOLOv8;Do+Piau%C3%AD+para+a+nuvem!+%F0%9F%8C%BE%E2%9C%A8" alt="Typing SVG" />
-    </td>
   </tr>
 </table>
 
