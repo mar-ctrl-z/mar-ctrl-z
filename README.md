@@ -55,6 +55,8 @@
 
 ### 🎒 Meu Inventário (Stack)
 
+Aqui estão as ferramentas que equipo para o trabalho:
+
 | 🌿 Categoria | Itens Equipados |
 | :--- | :--- |
 | **IA & Dados** | `YOLOv8` `Deep Learning` `Python` |
@@ -66,10 +68,17 @@
 
 ### 📊 Estatísticas (Quest Progress)
 
+Acompanhe o progresso da minha colheita de código:
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mar-ctrl-z&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-ctrl-z&layout=compact&theme=radical&hide_border=true" alt="Linguagens"/>
+<a href="https://github.com/mar-ctrl-z">
+  <img src="https://github-readme-stats.vercel.app/api?username=mar-ctrl-z&show_icons=true&locale=en" alt="GitHub Stats"/>
+</a>
+<br/>
+<a href="https://github.com/mar-ctrl-z">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-ctrl-z&layout=compact" alt="Top Langs"/>
+</a>
 
 </div>
 
