@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=76b361&height=180&section=header&text=🌸%20O%20Fazendinha%20Lab%20da%20Marina%20🌸&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="Header da Fazenda"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=76b361&height=180&section=header&text=🌸%20Página%20da%20Marina%20🌸&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="Header da Marina"/>
 
 <br/>
 
@@ -72,16 +72,18 @@ Aqui estão as ferramentas que equipo para o trabalho:
 
 <br/>
 
-### 📊 Estatísticas da Fazenda
+### 📊 Estatísticas (Quest Progress)
 
-Confira o progresso da minha colheita de código:
+Acompanhe o progresso das minhas atividades:
 
 <div align="center">
 
 <a href="https://github.com/marina-conrado-a3640532b">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marina-conrado-a3640532b&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&icon_color=98EE99&text_color=555555&title_color=76b361" alt="Estatísticas do GitHub"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-conrado-a3640532b&layout=compact&theme=react&hide_border=true&langs_count=6&text_color=555555&title_color=76b361" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marina-conrado-a3640532b&show_icons=true&locale=en" alt="GitHub Stats"/>
+</a>
+<br/>
+<a href="https://github.com/marina-conrado-a3640532b">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-conrado-a3640532b&layout=compact" alt="Top Langs"/>
 </a>
 
 </div>
