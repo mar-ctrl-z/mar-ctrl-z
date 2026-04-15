@@ -194,19 +194,3 @@ Se você quer conversar, não hesite em me chamar! 😊
 - 🎯 **Focado:** Metas claras e execução consistente
 - 🧠 **Aprendiz:** Sempre evoluindo e melhorando
 
----
-
-<div align="center">
-
-### ⭐ Se meu trabalho te inspire, deixe uma estrela! ⭐
-
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Heart.svg" width="20" style="margin: 0 5px;"/>
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Heart.svg" width="20" style="margin: 0 5px;"/>
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Heart.svg" width="20" style="margin: 0 5px;"/>
-
-<br/>
-
-**Feito com 💚 e muito ☕ por Marina | 2026**
-
-</div>
-
