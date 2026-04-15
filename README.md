@@ -39,7 +39,6 @@
 ---
 
 ### 📊 Estatísticas (Progresso da Colheita)
-Se os quadros abaixo não aparecerem agora, é um erro temporário do servidor do GitHub (Vercel). Eles costumam voltar em alguns minutos!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mar-ctrl-z&show_icons=true&theme=pastel&hide_border=true" alt="Stats" />
