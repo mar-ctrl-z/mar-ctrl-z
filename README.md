@@ -144,48 +144,6 @@ Se você está procurando por alguém que una **criatividade**, **precisão téc
 
 ---
 
-## 🌱 Projetos Destaque
-
-### 🐄 Detecção de Animais (YOLOv8)
-**Descrição:** Modelo treinado para reconhecimento de pequenos ruminantes  
-**Tecnologia:** Python, YOLOv8, OpenCV, Pandas  
-**Status:** 🟢 Ativo  
-
-### ☁️ Arquitetura Cloud-Native
-**Descrição:** Infraestrutura containerizada e orquestrada  
-**Tecnologia:** Docker, Kubernetes, PostgreSQL  
-**Status:** 🟢 Evolução contínua  
-
-### 📖 Análise de Dados
-**Descrição:** Pipelines de dados e visualizações  
-**Tecnologia:** Python, Pandas, Matplotlib, Seaborn  
-**Status:** 🟢 Em Desenvolvimento  
-
----
-
-## 🎓 Formação & Certificações
-
-- 👩‍🎓 **Bacharelado em Sistemas de Informação** - Universidade Federal do Piauí (UFPI)
-- 🏆 Participações em Conferências e Workshops
-- 📚 Publicações em Visão Computacional e IA
-
----
-
-## 💬 Vamos Conversar?
-
-Adoro trocar ideias sobre tecnologia, IA, e soluções inovadoras! Estou sempre aberta a:
-
-✅ Colaborações em projetos de IA e visão computacional  
-✅ Discussões sobre arquitetura de sistemas  
-✅ Mentoria em Python e desenvolvimento de software  
-✅ Parcerias em pesquisa e inovação  
-
-Se você quer conversar, não hesite em me chamar! 😊
-
----
-
-## 🌟 Filosofia de Trabalho
-
 > *"Assim como uma fazenda, o desenvolvimento de software requer planejamento, dedicação e cuidado constante. A cada linha de código, a cada algoritmo treinado, estou cultivando algo maior que eu mesma."*
 
 - 🌾 **Organizado:** Estrutura clara e metodologia definida
